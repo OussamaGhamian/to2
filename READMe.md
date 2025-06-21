@@ -46,7 +46,7 @@
 
 ## 🖼️ Screenshots
 
-> _Add your own screenshots or demo GIFs here!_
+> ![landing page](image.png)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder/screenshot.png" alt="App Screenshot" width="600"/>
