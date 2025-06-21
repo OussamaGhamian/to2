@@ -40,7 +40,6 @@
 - ☁️ **AWS Amplify Backend:** Uses GraphQL API and authentication via AWS Amplify.
 - 📱 **Responsive Design:** Works great on desktop and mobile.
 - ♿ **Accessible:** Keyboard and screen reader friendly.
-- 🖼️ **Icon-based UI:** Clean, modern look using [react-icons](https://react-icons.github.io/react-icons/).
 
 ---
 
@@ -88,23 +87,11 @@ To build and publish your app to AWS Amplify Hosting:
 ```bash
 npm run build
 amplify publish
-```
-
----
-
-## 💡 Usage
-
-- ➕ Click the **plus icon** to add a new todo.
-- ✏️ Click the **edit icon** to update a todo.
-- 🗑️ Click the **trash icon** to delete a todo.
-- 🌙/☀️ Use the **moon/sun icon** to toggle between light and dark themes.
-- 🔒 Use the **sign out icon** to log out.
-
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, react-icons, CSS-in-JS
+- **Frontend:** React & CSS-in-JS
 - **Backend:** AWS Amplify (GraphQL API, Auth, Hosting)
 
 ---
