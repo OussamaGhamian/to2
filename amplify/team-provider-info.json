@@ -12,14 +12,8 @@
       "AmplifyAppId": "dxap4acwf8a3n"
     },
     "categories": {
-      "hosting": {
-        "S3AndCloudFront": {}
-      },
       "auth": {
         "to2dccc4896": {}
-      },
-      "api": {
-        "to2": {}
       }
     }
   }
